@@ -1,9 +1,9 @@
-<h1 align="center">Web-Check</h1>
+<h1 align="center">W-C</h1>
 
 
 <p align="center">
 <img src="https://bsd.instructure.com/favicon.ico" width="96" /><br />
-<b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
+<b><i>website osint</i></b>
 <br />
 <b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
 
@@ -132,7 +132,7 @@ SSL certificates not only provide the assurance that data transmission to and fr
 <details>
 <summary><b>DNS Records</b></summary>
 
-<img width="300" src="https://i.ibb.co/7Q1kMwM/wc-dns.png" align="right" />
+<img width="300" src="https://bsd.instructure.com/favicon.ico" align="right" />
 
 ###### Description
 This task involves looking up the DNS records associated with a specific domain. DNS is a system that translates human-readable domain names into IP addresses that computers use to communicate. Various types of DNS records exist, including A (address), MX (mail exchange), NS (name server), CNAME (canonical name), and TXT (text), among others.
@@ -204,7 +204,7 @@ Analyzing HTTP headers can provide significant insights in an OSINT investigatio
 <details>
 <summary><b>Quality Metrics</b></summary>
 
-<img width="300" src="https://i.ibb.co/Kqg8rx7/wc-quality.png" align="right" />
+<img width="300" src="https://bsd.instructure.com/favicon.ico" align="right" />
 
 ###### Description
 Using Lighthouse, the Quality Metrics task measures the performance, accessibility, best practices, and SEO of the target website. This returns a simple checklist of 100 core metrics, along with a score for each category, to gauge the overall quality of a given site.
@@ -224,7 +224,7 @@ Useful for assessing a site's technical health, SEO issues, identify vulnerabili
 <details>
 <summary><b>Server Location</b></summary>
 
-<img width="300" src="https://i.ibb.co/cXH2hfR/wc-location.png" align="right" />
+<img width="300" src="https://bsd.instructure.com/favicon.ico" align="right" />
 
 ###### Description
 The Server Location task determines the physical location of the server hosting a given website based on its IP address. This is done by looking up the IP in a location database, which maps the IP to a lat + long of known data centers and ISPs. From the latitude and longitude, it's then possible to show additional contextual info, like a pin on the map, along with address, flag, time zone, currency, etc.
@@ -240,7 +240,7 @@ Knowing the server location is a good first step in better understanding a websi
 <details>
 <summary><b>Associated Hosts</b></summary>
 
-<img width="300" src="https://i.ibb.co/25j1sT7/wc-hosts.png" align="right" />
+<img width="300" src="https://bsd.instructure.com/favicon.ico" align="right" />
 
 ###### Description
 This task involves identifying and listing all domains and subdomains (hostnames) that are associated with the website's primary domain. This process often involves DNS enumeration to discover any linked domains and hostnames, as well as looking at known DNS records.
@@ -258,7 +258,7 @@ During an investigation, understanding the full scope of a target's web presence
 <details>
 <summary><b>Redirect Chain</b></summary>
 
-<img width="300" src="https://i.ibb.co/hVVrmwh/wc-redirects.png" align="right" />
+<img width="300" src="https://bsd.instructure.com/favicon.ico" align="right" />
 
 ###### Description
 This task traces the sequence of HTTP redirects that occur from the original URL to the final destination URL. An HTTP redirect is a response with a status code that advises the client to go to another URL. Redirects can occur for several reasons, such as URL normalization (directing to the www version of the site), enforcing HTTPS, URL shorteners, or forwarding users to a new site location.
